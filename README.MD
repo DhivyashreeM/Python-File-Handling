@@ -20,12 +20,16 @@ with Python for file operations.
 
 As a side function, this repository demonstrates cross-compatibility with a C++ script.
 Both scripts operate on the same file ("listOfNames.txt") and provide similar functionalities for 
-file handling operations. This aspect allows me to observe how different programming languages can interact and manipulate shared files seamlessly.
+file handling operations. This aspect allows me to observe how different programming languages 
+can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
 1.De-Comment the c++ script
+
 2. Compile the C++ script using a C++ compiler.
+
 3. Run the compiled executable.
+
 4. Follow the prompts displayed in the console to perform file handling operations.
 
 ## Personal Goals and Progress Tracking
@@ -37,16 +41,19 @@ I'll use this repository to track my progress in mastering file handling techniq
 
 ## Contribution Guidelines
 
-Since this repository is for personal practice, I'll be the primary contributor. However, I'm open to suggestions and feedback from others who might offer insights or improvements to the scripts.
+Since this repository is for personal practice, I'll be the primary contributor. However, 
+I'm open to suggestions and feedback from others who might offer insights or improvements to the scripts.
 
 Happy coding and file handling practice!
 
-
 <h2>Languages & Tools🛠️</h2>
 
-[![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
-[![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+[![Icone Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Icone PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Icone C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
+[![Icone VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Icone CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+
 
 
 
