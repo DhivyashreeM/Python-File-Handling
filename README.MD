@@ -24,7 +24,7 @@ file handling operations. This aspect allows me to observe how different program
 can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
-1.Copy C++ code from txt file to cpp file
+1. Copy C++ code from txt file to cpp file.
 2. De-Comment the c++ script.
 3. Compile the C++ script using a C++ compiler.
 4. Run the compiled executable.
