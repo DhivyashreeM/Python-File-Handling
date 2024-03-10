@@ -24,10 +24,11 @@ file handling operations. This aspect allows me to observe how different program
 can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
-1. De-Comment the c++ script.
-2. Compile the C++ script using a C++ compiler.
-3. Run the compiled executable.
-4. Follow the prompts displayed in the console to perform file handling operations.
+1.Copy C++ code from txt file to cpp file
+2. De-Comment the c++ script.
+3. Compile the C++ script using a C++ compiler.
+4. Run the compiled executable.
+5. Follow the prompts displayed in the console to perform file handling operations.
 
 ## Personal Goals and Progress Tracking
 
