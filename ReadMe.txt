@@ -23,9 +23,10 @@ Both scripts operate on the same file ("listOfNames.txt") and provide similar fu
 file handling operations. This aspect allows me to observe how different programming languages can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
-1. Compile the C++ script using a C++ compiler.
-2. Run the compiled executable.
-3. Follow the prompts displayed in the console to perform file handling operations.
+1.De-Comment the c++ script
+2. Compile the C++ script using a C++ compiler.
+3. Run the compiled executable.
+4. Follow the prompts displayed in the console to perform file handling operations.
 
 ## Personal Goals and Progress Tracking
 
@@ -43,13 +44,9 @@ Happy coding and file handling practice!
 
 <h2>Languages & Tools🛠️</h2>
 
-
-[![Icone VS-Code](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Icone VS-Code](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
-
 
 
 
