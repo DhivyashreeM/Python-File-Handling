@@ -46,13 +46,14 @@ I'm open to suggestions and feedback from others who might offer insights or imp
 
 Happy coding and file handling practice!
 
-
 <h2>Languages & Tools🛠️</h2>
-[![Icone VS-Code](https://skillicons.dev/icons?i=python)]
-[![Icone VS-Code](https://skillicons.dev/icons?i=pycharm)]
-[![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
-[![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+
+[![Icone Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Icone PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Icone C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
+[![Icone VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Icone CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+
 
 
 
