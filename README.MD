@@ -20,12 +20,16 @@ with Python for file operations.
 
 As a side function, this repository demonstrates cross-compatibility with a C++ script.
 Both scripts operate on the same file ("listOfNames.txt") and provide similar functionalities for 
-file handling operations. This aspect allows me to observe how different programming languages can interact and manipulate shared files seamlessly.
+file handling operations. This aspect allows me to observe how different programming languages 
+can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
 1.De-Comment the c++ script
+
 2. Compile the C++ script using a C++ compiler.
+
 3. Run the compiled executable.
+
 4. Follow the prompts displayed in the console to perform file handling operations.
 
 ## Personal Goals and Progress Tracking
@@ -37,7 +41,8 @@ I'll use this repository to track my progress in mastering file handling techniq
 
 ## Contribution Guidelines
 
-Since this repository is for personal practice, I'll be the primary contributor. However, I'm open to suggestions and feedback from others who might offer insights or improvements to the scripts.
+Since this repository is for personal practice, I'll be the primary contributor. However, 
+I'm open to suggestions and feedback from others who might offer insights or improvements to the scripts.
 
 Happy coding and file handling practice!
 
