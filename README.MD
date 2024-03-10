@@ -11,7 +11,7 @@ with Python for file operations.
 - Capable of adding, displaying, replacing, and deleting names in the "listOfNames.txt" file.
 
 ### Getting Started:
-1. Open the Python script (`file_handling_python.py`) in your preferred editor.
+1. Open the Python script in your preferred editor.
 2. Run the script in the Python environment.
 3. Follow the prompts displayed in the console to practice various file handling operations.
 4. Experiment with different functionalities to strengthen your understanding of file handling in Python.
@@ -24,12 +24,9 @@ file handling operations. This aspect allows me to observe how different program
 can interact and manipulate shared files seamlessly.
 
 ### Instructions for C++ Script:
-1.De-Comment the c++ script
-
+1. De-Comment the c++ script.
 2. Compile the C++ script using a C++ compiler.
-
 3. Run the compiled executable.
-
 4. Follow the prompts displayed in the console to perform file handling operations.
 
 ## Personal Goals and Progress Tracking
