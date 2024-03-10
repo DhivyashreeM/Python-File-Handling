@@ -49,7 +49,9 @@ Happy coding and file handling practice!
 
 <h2>Languages & Tools🛠️</h2>
 [![Icone VS-Code](https://skillicons.dev/icons?i=python)](https://python.org)
+
 [![Icone VS-Code](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+
 [![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
